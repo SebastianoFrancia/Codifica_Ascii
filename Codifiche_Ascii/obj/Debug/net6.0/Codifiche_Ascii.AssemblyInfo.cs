@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Codifiche_Ascii")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25bdbef327eb06b593e38065d29987240e5a572f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Codifiche_Ascii")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Codifiche_Ascii")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
